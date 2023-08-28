@@ -31,11 +31,11 @@ List<char> FindPattern(string[] sentence)
         {
             if (sentence[i] == sentence[i + 1])
             {
-                result.Add('t');
+                result.Add('1');
             }
             else
             {
-                result.Add('n');
+                result.Add('0');
             }
         }
         return result;
