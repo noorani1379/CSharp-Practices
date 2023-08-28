@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Digits", "Add Digits\Add Digits.csproj", "{831E96EB-FE4A-4CDC-9067-1387E9567D7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{831E96EB-FE4A-4CDC-9067-1387E9567D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831E96EB-FE4A-4CDC-9067-1387E9567D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831E96EB-FE4A-4CDC-9067-1387E9567D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831E96EB-FE4A-4CDC-9067-1387E9567D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A1A84CF-0B82-4433-86C0-1FAF9E316B57}
+	EndGlobalSection
+EndGlobal

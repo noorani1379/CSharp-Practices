@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check Pattern", "Check Pattern\Check Pattern.csproj", "{6918ABB5-6ACC-45B6-87CD-95A3F001E1CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6918ABB5-6ACC-45B6-87CD-95A3F001E1CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6918ABB5-6ACC-45B6-87CD-95A3F001E1CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6918ABB5-6ACC-45B6-87CD-95A3F001E1CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6918ABB5-6ACC-45B6-87CD-95A3F001E1CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70B7107C-323D-4219-85C6-7659EF918BC4}
+	EndGlobalSection
+EndGlobal
